@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689200809 source:c:\users\user\onedrive - mansoura university - main\desktop\mostafa\breakin\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
